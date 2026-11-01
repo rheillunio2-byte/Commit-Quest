@@ -40,7 +40,7 @@ Whether you're learning your first programming language, building projects, or c
       <b>Activity</b>
     </td>
     <td align="center">
-      <img src="images/Milestone.PNG" width="400" alt="Commit Quest Milestone">
+      <img src="images/Achievements.PNG" width="400" alt="Commit Quest Milestone">
       <br>
       <b>Milestone</b>
     </td>
